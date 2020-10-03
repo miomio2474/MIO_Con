@@ -1,0 +1,8 @@
+{
+"dccons" : [
+  {"keywords" : [ "태양만세" ], "tags" : [ "만세" ], "path" : "https://i.postimg.cc/cJMG5Gk2/image.gif" },
+  {"keywords" : [ "반갈죽" ], "tags" : [ "반갈죽" ], "path" : "https://i.postimg.cc/BbZF13R0/2.gif"},
+  {"keywords" : [ "노오" ], "tags" : [ "NO" ], "path" : "https://i.postimg.cc/nV6dQZmq/Miocon-NO.jpg"},
+{"keywords" : [ "미하" ], "tags" : [ "인사" ], "path" : "https://i.postimg.cc/Px7fbKsV/Miocon-miha.jpg"}  
+]
+}
